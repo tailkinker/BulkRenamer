@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="bulkrename.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="31"/>
+      </Unit>
+      <Unit>
+        <Filename Value="frenamer.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="frmBulkRenamer"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="191"/>
+        <CursorPos X="37" Y="199"/>
+        <UsageCount Value="31"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="/usr/share/lazarus/3.4.0/lcl/controls.pp"/>
+        <UnitName Value="Controls"/>
+        <EditorIndex Value="1"/>
+        <TopLine Value="1801"/>
+        <CursorPos X="24" Y="1820"/>
+        <UsageCount Value="10"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="/usr/share/lazarus/3.4.0/lcl/interfaces/gtk2/gtk2widgetset.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="25"/>
+        <CursorPos Y="44"/>
+        <UsageCount Value="10"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="29">
+      <Position>
+        <Filename Value="frenamer.pas"/>
+        <Caret Line="320" TopLine="297"/>
+      </Position>
+      <Position>
+        <Filename Value="frenamer.pas"/>
+        <Caret Line="319" TopLine="297"/>
+      </Position>
+      <Position>
+        <Filename Value="frenamer.pas"/>
+        <Caret Line="314" TopLine="297"/>
+      </Position>
+      <Position>
+        <Filename Value="frenamer.pas"/>
+        <Caret Line="315" TopLine="297"/>
+      </Position>
+      <Position>
+        <Filename Value="frenamer.pas"/>
+        <Caret Line="316" TopLine="297"/>
+      </Position>
+      <Position>
+        <Filename Value="frenamer.pas"/>
+        <Caret Line="317" TopLine="297"/>
+      </Position>
+      <Position>
+        <Filename Value="frenamer.pas"/>
+        <Caret Line="318" TopLine="297"/>
+      </Position>
+      <Position>
+        <Filename Value="frenamer.pas"/>
+        <Caret Line="319" TopLine="297"/>
+      </Position>
+      <Position>
+        <Filename Value="frenamer.pas"/>
+        <Caret Line="320" TopLine="297"/>
+      </Position>
+      <Position>
+        <Filename Value="frenamer.pas"/>
+        <Caret Line="319" TopLine="297"/>
+      </Position>
+      <Position>
+        <Filename Value="frenamer.pas"/>
+        <Caret Line="314" TopLine="297"/>
+      </Position>
+      <Position>
+        <Filename Value="frenamer.pas"/>
+        <Caret Line="315" TopLine="297"/>
+      </Position>
+      <Position>
+        <Filename Value="frenamer.pas"/>
+        <Caret Line="316" TopLine="297"/>
+      </Position>
+      <Position>
+        <Filename Value="frenamer.pas"/>
+        <Caret Line="317" TopLine="297"/>
+      </Position>
+      <Position>
+        <Filename Value="frenamer.pas"/>
+        <Caret Line="318" TopLine="297"/>
+      </Position>
+      <Position>
+        <Filename Value="frenamer.pas"/>
+        <Caret Line="319" TopLine="297"/>
+      </Position>
+      <Position>
+        <Filename Value="frenamer.pas"/>
+        <Caret Line="320" TopLine="297"/>
+      </Position>
+      <Position>
+        <Filename Value="frenamer.pas"/>
+        <Caret Line="319" TopLine="297"/>
+      </Position>
+      <Position>
+        <Filename Value="frenamer.pas"/>
+        <Caret Line="314" TopLine="297"/>
+      </Position>
+      <Position>
+        <Filename Value="frenamer.pas"/>
+        <Caret Line="315" TopLine="297"/>
+      </Position>
+      <Position>
+        <Filename Value="frenamer.pas"/>
+        <Caret Line="316" TopLine="297"/>
+      </Position>
+      <Position>
+        <Filename Value="frenamer.pas"/>
+        <Caret Line="317" TopLine="297"/>
+      </Position>
+      <Position>
+        <Filename Value="frenamer.pas"/>
+        <Caret Line="318" TopLine="297"/>
+      </Position>
+      <Position>
+        <Filename Value="frenamer.pas"/>
+        <Caret Line="319" TopLine="297"/>
+      </Position>
+      <Position>
+        <Filename Value="frenamer.pas"/>
+        <Caret Line="314" Column="29" TopLine="297"/>
+      </Position>
+      <Position>
+        <Filename Value="frenamer.pas"/>
+        <Caret Line="270" TopLine="250"/>
+      </Position>
+      <Position>
+        <Filename Value="frenamer.pas"/>
+        <Caret Line="314" Column="72" TopLine="297"/>
+      </Position>
+      <Position>
+        <Filename Value="frenamer.pas"/>
+        <Caret Line="185" Column="3" TopLine="182"/>
+      </Position>
+      <Position>
+        <Filename Value="frenamer.pas"/>
+        <Caret Line="193" Column="3" TopLine="190"/>
+      </Position>
+      <Position>
+        <Filename Value="frenamer.pas"/>
+        <Caret Line="156" Column="32" TopLine="153"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+  <Debugging>
+    <Watches>
+      <Item>
+        <Expression Value="index"/>
+      </Item>
+      <Item>
+        <Expression Value="Tasks [index]"/>
+      </Item>
+      <Item>
+        <Expression Value="lstFileList.Items [index].Caption"/>
+      </Item>
+    </Watches>
+  </Debugging>
+</CONFIG>
