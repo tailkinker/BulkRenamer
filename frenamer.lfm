@@ -11,6 +11,7 @@ object frmBulkRenamer: TfrmBulkRenamer
   DesignTimePPI = 110
   OnCreate = FormCreate
   OnResize = FormResize
+  ShowHint = True
   LCLVersion = '3.4.0.0'
   object panToolbar: TPanel
     AnchorSideLeft.Control = Owner
@@ -178,6 +179,7 @@ object frmBulkRenamer: TfrmBulkRenamer
       AnchorSideTop.Control = panToolbar
       Left = 59
       Height = 42
+      Hint = 'Remove selected files from file list'
       Top = 9
       Width = 42
       AutoSize = True
@@ -324,6 +326,7 @@ object frmBulkRenamer: TfrmBulkRenamer
       AnchorSideTop.Control = panToolbar
       Left = 109
       Height = 42
+      Hint = 'Clear the file list'
       Top = 9
       Width = 42
       AutoSize = True
@@ -499,7 +502,7 @@ object frmBulkRenamer: TfrmBulkRenamer
     Height = 108
     Top = 354
     Width = 774
-    PageIndex = 4
+    PageIndex = 0
     Anchors = [akLeft, akRight, akBottom]
     BorderSpacing.Around = 8
     TabOrder = 2
@@ -1047,6 +1050,7 @@ object frmBulkRenamer: TfrmBulkRenamer
     AnchorSideBottom.Control = ntModes
     Left = 374
     Height = 42
+    Hint = 'Run this rename mode.  Does not commit changes!'
     Top = 304
     Width = 42
     Anchors = [akLeft, akBottom]
@@ -1192,6 +1196,7 @@ object frmBulkRenamer: TfrmBulkRenamer
     AnchorSideBottom.Side = asrBottom
     Left = 582
     Height = 42
+    Hint = 'Commit changes to file system'
     Top = 470
     Width = 96
     Anchors = [akRight, akBottom]
@@ -1339,6 +1344,7 @@ object frmBulkRenamer: TfrmBulkRenamer
     AnchorSideBottom.Side = asrBottom
     Left = 686
     Height = 42
+    Hint = 'I''m outta here'
     Top = 470
     Width = 96
     Anchors = [akRight, akBottom]
